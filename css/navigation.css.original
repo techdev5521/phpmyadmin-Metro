@@ -90,7 +90,7 @@ if (! defined('PMA_MINIMUM_COMMON') && ! defined('TESTSUITE')) {
 
 #pma_navigation #pmalogo:after
 {
-    font-family: 'Open Sans';
+    font-family: 'Open Sans Extrabold';
     text-transform: uppercase;
     margin-left: 5px;
     content: 'phpMyAdmin';

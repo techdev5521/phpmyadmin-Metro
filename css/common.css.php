@@ -543,7 +543,10 @@ fieldset fieldset
 
 legend
 {
-  padding: 0 5px;
+  display: block;
+  background-color: #fff;
+  border: 1px solid #DDDDDD;
+  padding: 5px;
 }
 
 .some-margin {
