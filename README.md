@@ -1,4 +1,5 @@
 # phpmyadmin: Metro
+A fork of the Metro theme for phpmyadmin with tweaks for low vision users.
 
 ![phpmyadmin Metro Screenshot](https://raw.githubusercontent.com/techdev5521/phpmyadmin-Metro/master/screen.png "phpmyadmin Metro Screenshot")
 
